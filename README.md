@@ -72,14 +72,14 @@
 
 By working through this repository, learners will:  
 
-Understand core **data structures** like arrays, queues, linked lists, etc.  
-Build strong foundational **algorithms** like sorting and searching  
-Practice both **iterative** and **recursive** problem-solving techniques  
-Learn **modular programming** and code reusability in C++  
-Improve skills needed for **technical interviews** and **competitive coding**  
-Develop a habit of writing **efficient, optimized code**  
-Strengthen debugging and compile-time error handling  
-Understand **time and space complexity** fundamentals  
+-> Understand core **data structures** like arrays, queues, linked lists, etc.  
+-> Build strong foundational **algorithms** like sorting and searching  
+-> Practice both **iterative** and **recursive** problem-solving techniques  
+-> Learn **modular programming** and code reusability in C++  
+-> Improve skills needed for **technical interviews** and **competitive coding**  
+-> Develop a habit of writing **efficient, optimized code**  
+-> Strengthen debugging and compile-time error handling  
+-> Understand **time and space complexity** fundamentals  
 
 ---
 
@@ -88,3 +88,9 @@ Understand **time and space complexity** fundamentals
 - Compiler: GCC / G++ / MinGW
 - Editor: VS Code / Dev C++ / Sublime Text
 
+### Author  
+--- Kush Amit Shah  
+--- Diploma in Computer Engineering  
+--- Gujarat, India  
+--- Mail: kushshah900@gmail.com  
+--- Interests: Cybersecurity | Web Development | Logical Programming  
