@@ -91,6 +91,7 @@ By working through this repository, learners will:
 ### Author  
 --- Kush Amit Shah  
 --- Diploma in Computer Engineering  
+--- B.Tech (Pursuing)
 --- Gujarat, India  
 --- Mail: kushshah900@gmail.com  
 --- Interests: Cybersecurity | Web Development | Logical Programming  
